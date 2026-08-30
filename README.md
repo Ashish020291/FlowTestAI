@@ -4,6 +4,37 @@ AI-powered test automation platform. Write test cases in natural language, execu
 with Playwright across multiple browsers, and get intelligent failure analysis —
 **no database required**.
 
+#FlowTestAI
+
+This project archive is split into 11 parts because of GitHub file-size limitations.
+
+### Download
+
+Download **all 11 parts**:
+
+`FlowTestAI.partaa` → `FlowTestAI.partaak`
+
+Keep all files in the **same folder**.
+
+### Combine the files
+
+**Windows (Command Prompt):**
+
+```cmd
+copy /b MyProject.zip.a+MyProject.zip.b+MyProject.zip.c+MyProject.zip.d+MyProject.zip.e+MyProject.zip.f+MyProject.zip.g+MyProject.zip.h+MyProject.zip.i+MyProject.zip.j+MyProject.zip.k MyProject.zip
+```
+
+**macOS / Linux:**
+
+```bash
+cat MyProject.zip.a MyProject.zip.b MyProject.zip.c MyProject.zip.d MyProject.zip.e MyProject.zip.f MyProject.zip.g MyProject.zip.h MyProject.zip.i MyProject.zip.j MyProject.zip.k > MyProject.zip
+```
+
+After combining, extract `MyProject.zip` normally.
+
+**Important:** All 11 parts are required. Do not rename, modify, or extract the individual parts.
+
+
 ---
 
 ## Architecture
